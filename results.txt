@@ -1,0 +1,4 @@
+adonis-3.2
+Requests per second:    2778.39 [#/sec] (mean)
+adonis-4.0
+Requests per second:    8674.41 [#/sec] (mean)
