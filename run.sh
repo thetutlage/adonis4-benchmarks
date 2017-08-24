@@ -1,3 +1,4 @@
+echo "" > results.txt;
 echo adonis-3.2 >> results.txt ;
 cd 3.2.0 ;
 node server.js & sleep 5 ;
